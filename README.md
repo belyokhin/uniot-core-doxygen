@@ -1,3 +1,11 @@
+# Uniot Core Doxygen
+
+This repository is part of the [Uniot](https://github.com/uniot-io) project. All necessary changes have been made so that it can exist as a module for the [uniot-core](https://github.com/uniot-io/uniot-core).
+
+Original repository: [doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)
+
+The following is the original readme.
+
 #  Doxygen Awesome
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/jothepro/doxygen-awesome-css)](https://github.com/jothepro/doxygen-awesome-css/releases/latest)
